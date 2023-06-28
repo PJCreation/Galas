@@ -13,7 +13,7 @@
    ## Announcement
    The project is outdated due to the <a href="https://github.com/R3nzTheCodeGOD/R3nzSkin/issues/379">deprecation of x86 architecture</a> of the game.<p>
    
-   </div>这本来是个很好的可以用于国服的换肤软件，但是因为哔哩哔哩上的某些人的宣传导致腾讯开始注意到这款软件，导致软件用于国服换肤会被封号。自私自利之人真的离谱，说不定他连英雄联盟都不玩，他玩原神。
+   </div>这本来是个很好的可以用于国服的换肤软件，但是因为哔哩哔哩上的某些人的宣传导致腾讯开始注意到这款软件，导致软件用于国服换肤会被封号。自私自利之人真的离谱，说不定他连英雄联盟都不玩。
 
    <img src="https://user-images.githubusercontent.com/58574988/134170370-c827d712-fcc7-432f-b9f8-96678b0c9bf6.gif">
 
