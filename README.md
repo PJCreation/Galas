@@ -12,7 +12,7 @@
 
    ## Announcement
    The project is outdated due to the <a href="https://github.com/R3nzTheCodeGOD/R3nzSkin/issues/379">deprecation of x86 architecture</a> of the game.<p>
-   I will be leaving on February 4th to fulfill my mandatory military service in my country, and may not be able to continue developing this project for a minimum of 3 months to a maximum of 1 year. If you possess the expertise to keep the project updated on a regular basis, please reach out to me before February 3rd.
+   这本来是个很好的可以用于国服的换肤软件，但是因为哔哩哔哩上的某些人的宣传导致腾讯开始注意到这款软件，导致软件用于国服换肤会被封号。
 
    <img src="https://user-images.githubusercontent.com/58574988/134170370-c827d712-fcc7-432f-b9f8-96678b0c9bf6.gif">
 
